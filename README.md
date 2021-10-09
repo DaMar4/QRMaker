@@ -1,0 +1,2 @@
+# QRMaker
+Generador de QR
