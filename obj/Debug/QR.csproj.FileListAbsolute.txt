@@ -1,0 +1,12 @@
+C:\Users\Daniel Marin\source\repos\QR\bin\Debug\QR.exe.config
+C:\Users\Daniel Marin\source\repos\QR\bin\Debug\QR.exe
+C:\Users\Daniel Marin\source\repos\QR\bin\Debug\QR.pdb
+C:\Users\Daniel Marin\source\repos\QR\bin\Debug\QRCoder.dll
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.csprojAssemblyReference.cache
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.Form1.resources
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.Properties.Resources.resources
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.csproj.GenerateResource.cache
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.csproj.CopyComplete
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.exe
+C:\Users\Daniel Marin\source\repos\QR\obj\Debug\QR.pdb
